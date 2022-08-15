@@ -1,0 +1,15 @@
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\bin\Debug\net6.0\ConsumeViaCepWebApi.exe
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\bin\Debug\net6.0\ConsumeViaCepWebApi.deps.json
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\bin\Debug\net6.0\ConsumeViaCepWebApi.runtimeconfig.json
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\bin\Debug\net6.0\ConsumeViaCepWebApi.dll
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\bin\Debug\net6.0\ConsumeViaCepWebApi.pdb
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ConsumeViaCepWebApi.csproj.AssemblyReference.cache
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ConsumeViaCepWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ConsumeViaCepWebApi.AssemblyInfoInputs.cache
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ConsumeViaCepWebApi.AssemblyInfo.cs
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ConsumeViaCepWebApi.csproj.CoreCompileInputs.cache
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ConsumeViaCepWebApi.dll
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\refint\ConsumeViaCepWebApi.dll
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ConsumeViaCepWebApi.pdb
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ConsumeViaCepWebApi.genruntimeconfig.cache
+C:\itlab.estagio2022\ConsumeViaCepWebApi\ConsumeViaCepWebApi\obj\Debug\net6.0\ref\ConsumeViaCepWebApi.dll
